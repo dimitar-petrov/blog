@@ -2,7 +2,7 @@
 title = "Setting up the all servers needed for PXE"
 author = ["Dimitar Petrov"]
 date = 2020-07-21T19:46:00+03:00
-lastmod = 2020-07-21T20:02:00+03:00
+lastmod = 2020-07-22T21:12:00+03:00
 tags = ["pxe", "linux", "arch"]
 draft = false
 +++
